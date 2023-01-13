@@ -15,3 +15,5 @@ Then from GitHub import (clone) this code to your PC newly created folder
 And Click index.html file open it on web browser and play it
 
 If you want to make any changes or customization in Game. you can do it in your local computer with changing/updating the imported code. 
+
+Tools i used for this Project - IDE [Visual Studio Code] And Git / GitHub
